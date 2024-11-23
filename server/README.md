@@ -1,4 +1,4 @@
-img src="./client/my-movie-app/public/Moon_Flix.png" alt="alt text" width="200" title="optional image" >
+<img src="./client/my-movie-app/public/Moon_Flix.png" alt="alt text" width="200" title="optional image" >
 
 # FULLSTACK_MOVIE_ENTERTAINMENT_APP
 

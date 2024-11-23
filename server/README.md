@@ -23,7 +23,7 @@ Entertainment App is a web application that offers users the opportunity to expl
 [JWT](https://github.com/auth0/node-jsonwebtoken)<br>
 
 Visit the website:
-https://fullstack-movie-entertainment-app-sushant.vercel.app/
+
 
 Features
 Movie Catalog: Explore an extensive collection of movies with in-depth details.<br>
@@ -46,7 +46,7 @@ Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
 Clone the repository:
-https://github.com/Sushant7975/FULLSTACK_MOVIE_ENTERTAINMENT_APP.git
+
 
 Install dependencies:
 npm install
